@@ -7,7 +7,7 @@ Addong a new line.
 Adding another line.
 
 First entry on the first branch.
-
+First entry on the second branch.
 
 Third Entry on the master branch.
 
